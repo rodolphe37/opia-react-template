@@ -7,9 +7,9 @@ const FullPaddedBottom = () => {
         <div className="row">
           <div className="col-xs-12 padded-bottom">
             <ul className="folio-list dropshadow">
-              <li><a className="lightbox" href={require("../images/portfolio/project4.jpg")} title="Caption goes here."><img src={require("../images/portfolio/project4.jpg")} alt="thumbnail" /></a></li>
-              <li><a className="lightbox" href={require("../images/portfolio/project5.jpg")} title="Caption goes here."><img src={require("../images/portfolio/project5.jpg")} alt="thumbnail" /></a></li>
-              <li><a className="lightbox" href={require("../images/portfolio/project6.jpg")} title="Caption goes here."><img src={require("../images/portfolio/project6.jpg")} alt="thumbnail" /></a></li>
+              <li><a className="lightbox" href={require("../assets/images/portfolio/project4.jpg")} title="Caption goes here."><img src={require("../assets/images/portfolio/project4.jpg")} alt="thumbnail" /></a></li>
+              <li><a className="lightbox" href={require("../assets/images/portfolio/project5.jpg")} title="Caption goes here."><img src={require("../assets/images/portfolio/project5.jpg")} alt="thumbnail" /></a></li>
+              <li><a className="lightbox" href={require("../assets/images/portfolio/project6.jpg")} title="Caption goes here."><img src={require("../assets/images/portfolio/project6.jpg")} alt="thumbnail" /></a></li>
             </ul>
           </div>
         </div>

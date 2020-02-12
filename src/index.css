@@ -13,9 +13,9 @@ code {
 }
 
 #back-img {
-  background-image: url("./images/dark-image.jpg")
+  background-image: url("./assets/images/dark-image.jpg")
 }
 
 #padded-bottom-img {
-  background-image: url("./images/light-image.jpg")
+  background-image: url("./assets/images/light-image.jpg")
 }
